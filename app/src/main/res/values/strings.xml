@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KembaraApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_team">Team Profile</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_info">Info</string>
+</resources>
