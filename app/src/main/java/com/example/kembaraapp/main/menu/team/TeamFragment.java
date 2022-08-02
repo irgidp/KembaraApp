@@ -24,8 +24,8 @@ public class TeamFragment extends Fragment {
         binding = FragmentTeamBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textDashboard;
-        teamViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        //final TextView textView = binding.textDashboard;
+        //teamViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 
