@@ -5,6 +5,13 @@
     android:layout_height="match_parent"
     android:background="@color/primary"
     tools:context=".main.menu.home.HomeFragment">
+    <!--
+    NIM : 10119051
+    Nama : Rahmayudhi Prakoso
+    Kelas : IF-2/VI
+    Tanggal : Senin, 1 Agustus 2022
+    Membuat tampilan main activity
+-->
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"

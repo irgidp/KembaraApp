@@ -12,6 +12,14 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.kembaraapp.databinding.FragmentHomeBinding;
 
+/*
+        NIM : 10119051
+        Nama : Rahmayudhi Prakoso
+        Kelas : IF-2/VI
+        Tanggal : Selasa, 2 Agustus 2022
+        Membuat home fragment untuk menampilkan halaman home
+*/
+
 public class HomeFragment extends Fragment {
 
     private FragmentHomeBinding binding;

@@ -20,10 +20,10 @@ import java.util.List;
 public class InfoFragment extends Fragment {
 
     /*
-        NIM : 10119059
-        Nama : Irgi Dwiputra
+        NIM : 10119082
+        Nama : Zainul Rifqi Muwaffaq
         Kelas : IF-2/VI
-        Tanggal : Rabu, 29 Juni 2022
+        Tanggal : Selasa, 2 Agustus 2022
         Membuat class InfoFragment untuk deklrasi info fragment halaman
 */
     private ViewPager viewPager;

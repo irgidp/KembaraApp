@@ -9,12 +9,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.kembaraapp.R;
 import com.example.kembaraapp.main.MainActivity;
 
-
 /*
-        NIM : 10119059
-        Nama : Irgi Dwiputra
+        NIM : 10119074
+        Nama : Handrian Rivaldi
         Kelas : IF-2/VI
-        Tanggal : Selasa, 31 Mei 2022
+        Tanggal : Senin, 1 Agustus 2022
         Membuat class SplashScreen untuk menampilkan splashscreen
 */
 public class SplashActivity extends AppCompatActivity {

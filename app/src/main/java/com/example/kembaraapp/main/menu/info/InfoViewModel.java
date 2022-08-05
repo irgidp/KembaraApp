@@ -7,6 +7,14 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import java.util.List;
 
+/*
+        NIM : 10119082
+        Nama : Zainul Rifqi Muwaffaq
+        Kelas : IF-2/VI
+        Tanggal : Selasa, 2 Agustus 2022
+        Membuat class InfoViewModel untuk deklrasi info view model
+*/
+
 public class InfoViewModel extends FragmentStatePagerAdapter {
 
     private List<Fragment> fragmentList;

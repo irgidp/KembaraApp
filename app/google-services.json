@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814959722662",
+    "firebase_url": "https://kembara-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kembara-app",
+    "storage_bucket": "kembara-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814959722662:android:aa503d900fc00c6a9b3467",
+        "android_client_info": {
+          "package_name": "com.example.kembaraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814959722662-e17ln4p3i2lr1cfg86hbrsecoraqlgjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDif_zFVpA1MHOCf-aS0125zqD4u5nJioI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814959722662-e17ln4p3i2lr1cfg86hbrsecoraqlgjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
